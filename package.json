@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description":
     "[Udemy] MERN Stack Front To Back: Full Stack React, Redux &amp; Node.js [2018, ENG]",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "client-install": "npm install --prefix client",
     "start": "node app.js",
